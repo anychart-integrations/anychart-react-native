@@ -27,32 +27,32 @@ Install all project requirements:
 sudo npm install
 ```
 
-Now you can start a development server for you:
+Now you can start a development server:
 ```
 sudo npm start
 ```
 
-At this stage you will see the development server interface which allows to launch the demo application on emulators or on real mobile devices using the [EXPO client](https://expo.io/).
+At this stage you will see the development server interface which allows launching the demo application on emulators or on real mobile devices using the [EXPO client](https://expo.io/).
 
 ## Mobile Apps
 
 ### Emulators
 
-To run the the mobile applications on emulators, please, install required emulators:
+To run the mobile applications on emulators install required emulators:
  - [Android Studio](https://developer.android.com/studio/) with built-in emulator for Android
  - [Xcode](https://developer.apple.com/xcode/) with built-in emulator for iOS
 
 Run the target device emulator.
 
-Run the emulator by choosing required option in the development server interface.
+Run the emulator by choosing a required option in the development server interface.
 
 ### EXPO client
 
-To run the the mobile applications on a real device, please, install the EXPO client:
+To run the mobile applications on a real device, please, install the EXPO client:
  - [for Android](https://play.google.com/store/apps/details?id=host.exp.exponent)
  - [for iOS](https://itunes.apple.com/us/app/expo-client/id982107779?mt=8)
 
-Use your device camera to scan the QR code provided by the development server interface. It opens the EXPO client to build and download the the demo application. It will launch the demo application as the JavaScript bundle get downloaded.
+Use your device camera to scan the QR code provided by the development server interface. It opens the EXPO client to build and download the demo application. It will launch the demo application as the JavaScript bundle get downloaded.
 
 
 ## Links
