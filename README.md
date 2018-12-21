@@ -13,22 +13,22 @@ This example shows how to use Anychart with
 To run this sample:
 
 Clone the repository from github:
-```
+```bash
 $ git clone git@github.com:anychart-integrations/anychart-react-native.git
 ```
 
 Navigate to the repository folder:
-```
+```bash
 $ cd anychart-react-native
 ```
 
 Install all project requirements:
-```
+```bash
 sudo npm install
 ```
 
 Now you can start a development server:
-```
+```bash
 sudo npm start
 ```
 
